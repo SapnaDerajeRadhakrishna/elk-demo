@@ -10,3 +10,6 @@ gradlew/*
 gradlew
 /.gradle/
 /build/
+/bin/
+*.log
+*.gz
